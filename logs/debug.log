@@ -1,0 +1,23 @@
+2017-10-13 16:02:41,393 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@93af17
+2017-10-13 16:02:41,433 - Lemur build date:20170212
+2017-10-13 16:02:41,434 - loadStyleResource(com/simsilica/lemur/style/base/glass-styles.groovy)
+2017-10-13 16:04:03,862 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@c11dce
+2017-10-13 16:04:03,873 - Lemur build date:20170212
+2017-10-13 16:04:03,874 - loadStyleResource(com/simsilica/lemur/style/base/glass-styles.groovy)
+2017-10-13 16:08:38,847 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@c11dce
+2017-10-13 16:08:38,858 - Lemur build date:20170212
+2017-10-13 16:08:38,859 - loadStyleResource(com/simsilica/lemur/style/base/glass-styles.groovy)
+2017-10-13 16:14:22,942 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@c11dce
+2017-10-13 16:14:22,950 - Lemur build date:20170212
+2017-10-13 16:14:22,950 - loadStyleResource(com/simsilica/lemur/style/base/glass-styles.groovy)
+2017-10-13 16:14:23,351 - Loading base resource:jar:file:/D:/maven/mvnRespo/com/simsilica/lemur/1.10.1/lemur-1.10.1.jar!/com/simsilica/lemur/style/base/glass-styles.groovy
+2017-10-13 16:14:23,915 - Loading extension resources for:com/simsilica/lemur/style/base/glass-styles.groovy
+2017-10-13 16:14:23,915 - Loading extension resource:jar:file:/D:/maven/mvnRespo/com/simsilica/lemur-proto/1.9.1/lemur-proto-1.9.1.jar!/com/simsilica/lemur/style/base/glass-styles.groovy
+2017-10-13 16:31:02,705 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@c8e5c
+2017-10-13 16:31:02,742 - Lemur build date:20170212
+2017-10-13 16:33:10,395 - Initializing GuiGlobals with:com.simsilica.lemur.GuiGlobals@267de4
+2017-10-13 16:33:10,406 - Lemur build date:20170212
+2017-10-13 16:33:10,407 - loadStyleResource(com/simsilica/lemur/style/base/glass-styles.groovy)
+2017-10-13 16:33:11,344 - Loading base resource:jar:file:/D:/maven/mvnRespo/com/simsilica/lemur/1.10.1/lemur-1.10.1.jar!/com/simsilica/lemur/style/base/glass-styles.groovy
+2017-10-13 16:33:12,107 - Loading extension resources for:com/simsilica/lemur/style/base/glass-styles.groovy
+2017-10-13 16:33:12,107 - Loading extension resource:jar:file:/D:/maven/mvnRespo/com/simsilica/lemur-proto/1.9.1/lemur-proto-1.9.1.jar!/com/simsilica/lemur/style/base/glass-styles.groovy
